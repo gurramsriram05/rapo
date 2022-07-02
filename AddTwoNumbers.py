@@ -1,7 +1,7 @@
 # Python3 program to add two numbers
 
 num1 = 20
-num2 = 30
+num2 =40
 
 # Adding two nos
 sum = num1 + num2
